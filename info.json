@@ -1,0 +1,49 @@
+{
+    'Names':{
+        '0':'Aniket',
+        '1':'Indu',
+        '2':'sonam',
+        '3':'Joseph',
+        '4':'Tanzeela',
+        '5':'Venkatesh',
+        '6':'Bhavya'
+    },
+    
+    'Address':{
+        '0':'Delhi',
+        '1':'Uttar pradesh',
+        '2':'Gujrat',
+        '3':'Varanasi',
+        '4':'kanpur',
+        '5':'Lucknow',
+        '6':'Ujjain'
+    },
+    'Contact':{
+        '0':12345,
+        '1':34567,
+        '2':87654,
+        '3':12546,
+        '4':55789,
+        '5':99995,
+        '6':54678
+    },
+    'Salary':{
+        '0':55000,
+        '1':45000,
+        '2':25000,
+        '3':60000,
+        '4':75000,
+        '5':90000,
+        '6':10000
+    },
+    'Department':{
+        '0':'IT',
+        '1':'HR',
+        '2':'Finance',
+        '3':'Medical',
+        '4':'Accounts',
+        '5':'BPO',
+        '6':'Backend'
+    }
+    
+}
