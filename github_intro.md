@@ -71,9 +71,7 @@ Create Repository
 StudentManagement/
 
 │── README.md
-│── LICENSE
-│── .gitignore
-│── docs/
+│── python_files/
 │── images/
 │── src/
 │── package.json
